@@ -1,0 +1,33 @@
+img {
+  width: 200px;
+}
+
+body {
+  background-color: rgb(80, 5, 17);
+}
+p {
+  color: yellow;
+}
+h1 {
+  color: antiquewhite;
+}
+h2 {
+  color: yellow;
+}
+img {
+  width: 150px;
+}
+
+.center {
+  text-align: center;
+}
+
+.flex {
+  margin: 0 auto;
+  width: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #000;
+  border-radius: 8px;
+}
